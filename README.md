@@ -6,7 +6,7 @@ Manifesto Text Files Folder:
   Contains the text files (converted) which will be used for analysis.
   
 Manifesto Source Files:
-  Contains the source files.
+  Contains the source files. \n
   Most manifesto files were taken from: http://www.cpdi-pakistan.org/party-manifestos
   PML-N manifesto taken from: http://pmo.gov.pk/documents/manifesto.pdf
   JI manifesto taken from: https://kurzman.unc.edu/files/2011/06/JI_2013_English.pdf
