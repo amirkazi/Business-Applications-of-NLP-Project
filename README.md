@@ -8,9 +8,6 @@ Final project for UChicago Booth course 'Business Applications of Natural Langua
 
 ## Content:
 
-#### Manifesto Text Files Folder:
-- Contains the text files (converted) which will be used for analysis.
-
 #### Manifesto Source Files Folder:
 - Source files for PPP, ANP, MQM and PTI were taken from: http://www.cpdi-pakistan.org/party-manifestos 
 - The previous source was not used for PMLN and JI because their files in that source comprised of images instead of text.
@@ -22,6 +19,10 @@ http://pdf2doc.com
 https://kurzman.unc.edu/files/2011/06/JI_2013_English.pdf
 This file was an image file and had to be converted to txt through ‘Optical Character Recognition’. As such, this file contains some errors.
   
+#### Manifesto Text Files Folder:
+- Contains the text files (converted) which will be used for analysis.
+
+
 #### Code File:
 
 ##### The code does the following things:
