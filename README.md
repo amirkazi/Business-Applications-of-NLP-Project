@@ -1,5 +1,4 @@
 # Analyzing 2013 Election Manifestos for Pakistani Political Parties through Natural Language Processing
-Final project for UChicago Booth course 'Business Applications of Natural Language Processing' Spring 2018
 
 ## Goal:
 - Analyzing 2013 election manifestos for 6 different Pakistani political parties, to understand policy stances, issue prioritization etc.
@@ -50,3 +49,5 @@ This file was an image file and had to be converted to txt through ‘Optical Ch
 - TextBlob
 
 
+Done As:
+Final project for UChicago Booth course 'Business Applications of Natural Language Processing' Spring 2018
